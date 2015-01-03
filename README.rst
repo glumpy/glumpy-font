@@ -52,3 +52,9 @@ Available fonts
 * | Roboto Slab (monotype)
   | Apache License v2.00
   | http://www.google.com/fonts/specimen/Roboto+Slab
+
+|
+
+* | Awesome font (icons)
+  | SIL Open Font License v1.10
+  | https://github.com/FortAwesome/Font-Awesome
